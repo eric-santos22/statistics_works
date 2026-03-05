@@ -1,0 +1,10 @@
+[workspace]
+authors = ["eric-santos22 <ericduarteds@gmail.com>"]
+channels = ["conda-forge"]
+name = "logit_model"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
