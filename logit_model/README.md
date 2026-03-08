@@ -1,0 +1,1 @@
+This is a class that follows the Logit Model, calculating the prediction for probability of a series of inputs and its weights, using Sigmoid Function. It also plots a graphic.
